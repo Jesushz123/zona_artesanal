@@ -1,0 +1,56 @@
+
+#columnas{
+  font-family:"Comic Sans MS";
+text-align: center;
+   column-gap:600px;
+   	color:#FE5703;
+
+}
+body{
+  margin: 0;
+	background-image:url(../img/azul.jpg);
+	background-size: cover;
+  position: relative;
+  width:100%;
+	height:500%;
+
+
+}
+input[type="text"], input[type="password"]
+{
+text-align: center;
+outline: none;
+padding: 20px;
+display: block;
+width: 300px;
+border-radius: 3px;
+
+text-align: center;
+
+}
+input[type="submit"]
+{
+padding: 10px;
+color: #FFF;
+background: #FE5703;
+width: 300px;
+margin: 20px auto;
+margin-top: 0;
+border: 0;
+border-radius: 3px;
+cursor: pointer;
+
+}
+button[type="submit"]
+{
+padding: 10px;
+color: #FFF;
+background: #FE5703;
+width: 300px;
+margin: 20px auto;
+margin-top: 0;
+border: 0;
+border-radius: 3px;
+cursor: pointer;
+
+}
